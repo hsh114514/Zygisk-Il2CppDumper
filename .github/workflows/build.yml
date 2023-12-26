@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
       inputs:
         package_name:
-          description: "Package name of the game:"
+          description: "cn.galaxy.client:"
           required: true
 
 jobs:
